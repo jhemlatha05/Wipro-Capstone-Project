@@ -1,0 +1,9 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sauce Capstone Suite">
+  <test name="Cucumber Scenarios">
+    <classes>
+      <class name="runners.CucumberTestRunner"/>
+    </classes>
+  </test>
+</suite>
